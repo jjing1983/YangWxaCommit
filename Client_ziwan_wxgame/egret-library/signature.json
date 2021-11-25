@@ -1,0 +1,33 @@
+{
+	"provider": "wx7e2186943221985d",
+	"signature": [
+		{
+			"path": "assetsmanager.min.js",
+			"md5": "8c127243add4d257c5493e17980db33a"
+		},
+		{
+			"path": "dragonBones.min.js",
+			"md5": "544739f7ece0b0d9639cd3b1a93d054f"
+		},
+		{
+			"path": "egret.min.js",
+			"md5": "dc74ae46d34d19db685641e198fac645"
+		},
+		{
+			"path": "game.min.js",
+			"md5": "0636d99ae2bf39364448f7608f9247e1"
+		},
+		{
+			"path": "eui.min.js",
+			"md5": "0d45dd421571fba72598448e0e62b158"
+		},
+		{
+			"path": "socket.min.js",
+			"md5": "ff4ba511cf8563bf74bbd70b834748d4"
+		},
+		{
+			"path": "tween.min.js",
+			"md5": "92537e27c68bd347a4102ca704f77a89"
+		}
+	]
+}
